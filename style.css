@@ -2,13 +2,13 @@ body {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    background: #e2e5f0;
+    background: #eeffff;
 }
 h1,
 h2,
 p,
 span {
-    color: #e2e5f0;
+    color:#d3d5dd;
     text-align: center;
 }
 
@@ -27,24 +27,29 @@ span {
 }
 
 .title {
-    background: #343e63;
+    background: #00766c;
+
+
+
+
 }
 
 .text-test {
-    background: #343e63;
+    background: #00766c;
+
 }
 
 .title,
 .text-test {
     width: max-content;
-    border: 10px solid #435080;
+    border: 10px solid #64d8cb;
     padding: 50px;
 }
 .counter {
     width: max-content;
     margin: auto;
     text-align: center;
-    border: 3px solid #e2e5f0;
+    border: 3px solid #64d8cb;
     border-radius: 100%;
     padding: 10px;
 }
